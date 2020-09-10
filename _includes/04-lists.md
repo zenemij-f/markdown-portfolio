@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Atmosphere
+  * Winds
+  * Aerosol
+  * Gases
+  
+* Ocean
+  * Waves
+  * Vortices
+  * Tides
