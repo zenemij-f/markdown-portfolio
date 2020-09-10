@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+A lot of nice content at [NASA Earth Observatory](https://earthobservatory.nasa.gov/)!
