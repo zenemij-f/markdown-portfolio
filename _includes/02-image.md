@@ -1,1 +1,1 @@
-![The Earth from space](earth.jpeg)
+![The Earth from space](fluid_visualization.png)
