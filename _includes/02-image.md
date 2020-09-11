@@ -1,1 +1,1 @@
-![The Earth from space](earth.jpg)
+![The Earth from space](earth.jpeg)
