@@ -1,1 +1,1 @@
-![The Earth from space](https://zenemij-f.github.com/earth.jpeg)
+![The Earth from space](https://github.com/zenemij-f/markdown-portfolio/blob/master/index.jpeg)
