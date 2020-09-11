@@ -1,3 +1,3 @@
 # Exploring the Earth
-## Our planet, our home :blue_heart:
+## Our planet, our home
 Fabiola Trujano
