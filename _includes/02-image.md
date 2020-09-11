@@ -1,1 +1,1 @@
-![The Earth from space](https://github.com/zenemij-f/markdown-portfolio/blob/master/index.jpeg)
+![The Earth from space](https://octodex.github.com/images/yaktocat.png)
